@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=Jebaseelanravi&label=Profile%20views&color=8031ff" alt="Jebaseelanravi"/>
 
 
-- 🌱 I'm currently building backend services using Python
-- ✨ Interested in learning new stuff
+- 🌱 Backend developer
+- ✨ Pythonista
 - 💬 You can talk to me about History and Cycling
 
 ## Stats 📈
